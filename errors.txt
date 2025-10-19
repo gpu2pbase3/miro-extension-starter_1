@@ -1,2 +1,3 @@
 # Work Log
 Add a 'View as guest' mode for public resources
+Capture open questions
